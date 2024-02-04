@@ -86,6 +86,12 @@ for ticker in tickers:
 PORTFOLIO OPTIMIZATION:
 Explore Markowitz Portfolio Optimization and Efficient Frontier plotting with functions like get_port_shares, get_port_weighting, get_port_val_by_date, and more. Additionally, the script provides sector-wise analysis and cumulative return calculations.
 
+PLOTS:
+![plot](https://github.com/AHarshaNaidu/FinTech-AlgorithmicTradingStrategies/assets/116995673/0c878d6a-349b-43f9-b401-aac41bceea95)
+![Plot](https://github.com/AHarshaNaidu/FinTech-AlgorithmicTradingStrategies/assets/116995673/c9309c2c-4464-4cb6-a7be-8fb51c6de52d)
+
+![Efficient Frontier Plot](https://github.com/AHarshaNaidu/FinTech-AlgorithmicTradingStrategies/assets/116995673/f7e9d21f-b0c7-42f0-bab0-11583ed216f5)
+
 DISCLAMER:
 This code is provided for educational purposes only. Use it at your own risk, and make sure to understand the implications of algorithmic trading and financial markets. Always consult with a financial professional before making any investment decisions.
 
