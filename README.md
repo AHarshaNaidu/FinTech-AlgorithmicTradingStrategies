@@ -12,7 +12,7 @@ Sector Analysis: Explore cumulative returns for stocks within different sectors,
 
 GETTING STARTED:
 Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
+Install the required dependencies.
 Open and run the Jupyter notebooks to explore various aspects of algorithmic trading strategies.
 Experiment with different stock tickers, time frames, and portfolio compositions.
 
