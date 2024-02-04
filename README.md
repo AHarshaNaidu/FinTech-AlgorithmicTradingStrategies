@@ -86,7 +86,7 @@ for ticker in tickers:
 PORTFOLIO OPTIMIZATION:
 Explore Markowitz Portfolio Optimization and Efficient Frontier plotting with functions like get_port_shares, get_port_weighting, get_port_val_by_date, and more. Additionally, the script provides sector-wise analysis and cumulative return calculations.
 
-DISCLAAMIER:
+DISCLAMER:
 This code is provided for educational purposes only. Use it at your own risk, and make sure to understand the implications of algorithmic trading and financial markets. Always consult with a financial professional before making any investment decisions.
 
 Happy Coing! Happy Trading!!
